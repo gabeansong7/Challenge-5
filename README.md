@@ -20,4 +20,4 @@ As the current day is displayed at the top of the calender, user can scrool down
 
 ### Deployed Link
 
-[Work-Day-Scheduler](https://www.example.com)
+[Work-Day-Scheduler](https://gabeansong7.github.io/Work-Day-Scheduler/)
